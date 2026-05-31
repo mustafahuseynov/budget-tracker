@@ -1,0 +1,14 @@
+# .NET
+apps/api/bin/
+apps/api/obj/
+apps/api/*.user
+
+# Node
+node_modules/
+apps/web/node_modules/
+apps/web/dist/
+
+# Misc
+.DS_Store
+.env
+.env.local
