@@ -8,6 +8,11 @@ node_modules/
 apps/web/node_modules/
 apps/web/dist/
 
+# Visual Studio
+apps/api/.vs/
+*.suo
+*.user
+
 # Misc
 .DS_Store
 .env
