@@ -2,6 +2,7 @@
 apps/api/bin/
 apps/api/obj/
 apps/api/*.user
+apps/api/appsettings.*.json
 
 # Node
 node_modules/
